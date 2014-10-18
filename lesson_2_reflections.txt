@@ -5,3 +5,8 @@ git starts tracking its chages. We need to do it if we want git to track the cha
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 staging area gives a choice regarding what to commit and what not to commit
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+we get the goodnes of the two branches in one branch
